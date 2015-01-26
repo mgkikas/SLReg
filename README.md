@@ -1,6 +1,6 @@
 ### Introduction
 
-The slr function allows as to check the correlation and compute the regression line for a pair of variables
+The slr function checks the correlation and computes the fitted regression line for a pair of variables
 of a dataset in a quick and easy way. The selection of variables is done from a selection menu. 
 
 ### Instructions
