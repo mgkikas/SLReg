@@ -1,9 +1,10 @@
-## slr is a function that fits a simple linear model to the dataset, 
+## Copyright 2015 Michail Gkikas. All Rights Reserved
+
+## The slr function fits a simple linear model to the dataset, 
 ## plots the regression line and returns an easy to read output of the 
 ## regression equation along with the correlation between two variables.
 
-## The data argument is a character string with the filename 
-## of the csv datafile.
+## data: a character string with the filename of the csv datafile.
 
 slr <- function(data){
         df <- read.csv(data) 
